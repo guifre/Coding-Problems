@@ -1,7 +1,7 @@
 public class PowerSet {
     //I assume args[0] something like "135225235"
     public static void main(String[] args) {
-	PowerSet.print(args[0]);
+		print(args[0]);
     }
 
     public static void print(String a) {

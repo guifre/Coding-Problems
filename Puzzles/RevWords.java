@@ -12,6 +12,4 @@ class RevWords {
 	    return " " + words[words.length-1] + reverse(in.substring(0, in.length() - words[words.length-1].length() -1 ));
         }
    }
-
-
 }
